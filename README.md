@@ -2,6 +2,7 @@
 
 An advanced and responsive calculator built using HTML, CSS, and JavaScript, designed with a modern UI and support for both basic and scientific operations. This project demonstrates strong fundamentals of front-end development along with interactive functionality and user-friendly design.
 
+
 🚀 Features
 
 ➕ Basic arithmetic operations (Addition, Subtraction, Multiplication, Division)
@@ -15,6 +16,7 @@ An advanced and responsive calculator built using HTML, CSS, and JavaScript, des
 ⚡ Fast and responsive performance
 
 ❌ Error handling for invalid expressions
+
 
 🛠️ Tech Stack
 
