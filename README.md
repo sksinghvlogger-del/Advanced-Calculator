@@ -5,14 +5,21 @@ An advanced and responsive calculator built using HTML, CSS, and JavaScript, des
 🚀 Features
 
 ➕ Basic arithmetic operations (Addition, Subtraction, Multiplication, Division)
+
 🧠 Scientific functions (sin, cos, tan, log, square root, power)
+
 ⌨️ Keyboard input support
+
 🎨 Clean and modern dark UI
+
 ⚡ Fast and responsive performance
+
 ❌ Error handling for invalid expressions
 
 🛠️ Tech Stack
 
 HTML5 – Structure
+
 CSS3 – Styling & Layout
+
 JavaScript (ES6) – Logic & Functionality
